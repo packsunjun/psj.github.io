@@ -53,7 +53,7 @@ section{
     opacity: 0.7;
 }
 .contact{
-    background-image: url(https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA5MDlfOTkg%2FMDAxNjYyNjk4MTUxODU2.PuQlF7bh3M30nK60FJAa_Epbk-nMvt8Sa_UMxlME0iQg.TZ-3KMeMfy5cRmdL-DAQAEgMdd9AipNfY_wYz0oZM34g.JPEG.moviesister%2F20220908%25A3%25DF144557.jpg&type=sc960_832);
+    background-image: url(https://newsimg.hankookilbo.com/cms/articlerelease/2021/03/19/1566126d-5ac8-4142-ba1c-79a37444fc17.jpg);
     text-align: center;
     padding-top: 8vh;
     opacity: 0.7;
@@ -124,7 +124,11 @@ section{
     padding: 1rem 0.5rem 0.5rem 0.5rem;
     margin: 1rem 2rem 0 0;
     color: rgb(41,41,41);
-    
+}
+.contact p{
+    color: rgb(255, 162, 0);
+    font-size: 20px;
+    font-weight: bold;
 }
 li{
     list-style: none;
